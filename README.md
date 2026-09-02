@@ -1,11 +1,11 @@
-#🛒 Ecommerce Sales Analysis Dashboard
+# 🛒 Ecommerce Sales Analysis Dashboard
 
-#📌 Project Overview
+# 📌 Project Overview
 
 This project is an Ecommerce Sales Analysis Dashboard developed using Microsoft Power BI. The dashboard provides an interactive and visual analysis of ecommerce sales performance, helping to understand sales trends, customer behavior, product performance, and overall business performance.
 The goal of this project is to transform raw sales data into meaningful insights that can support data-driven business decisions.
 
-##🎯 Objectives
+## 🎯 Objectives
 > Analyze overall ecommerce sales performance.
 > Track important sales and business KPIs.
 > Identify sales trends over time.
@@ -16,14 +16,14 @@ The goal of this project is to transform raw sales data into meaningful insights
 > Present complex data in an easy-to-understand visual format.
 
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Power BI – Dashboard development and data visualization
 Power Query – Data cleaning and transformation
 DAX – Measures and KPI calculations
 Data Modeling – Creating relationships between data tables
 Excel/CSV – Data source
 
-##🔄 Project Workflow
+## 🔄 Project Workflow
                           Raw Ecommerce Data
                                   ↓
                           Data Cleaning & Transformation
@@ -41,7 +41,7 @@ Excel/CSV – Data source
                           Business Insights
 
 
-##📈 Key Insights
+## 📈 Key Insights
 
 The dashboard helps identify:
 
@@ -53,16 +53,16 @@ The dashboard helps identify:
 > Important trends that can support business decision-making.
 
 
-##📸 Dashboard Preview:
+## 📸 Dashboard Preview:
 <img width="2244" height="1268" alt="image" src="https://github.com/user-attachments/assets/d773b610-f602-4c64-abf1-91a6daa1b339" />
 
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Preeti Pawar
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-##⭐ If you find this project useful
+## ⭐ If you find this project useful
 
 If you found this project helpful or interesting, consider giving the repository a ⭐ on GitHub.
