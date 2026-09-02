@@ -54,7 +54,8 @@ The dashboard helps identify:
 
 
 ## 📸 Dashboard Preview:
-<img width="2244" height="1252" alt="Screenshot 2026-09-02 184801" src="https://github.com/user-attachments/assets/62662e56-d452-4f62-b04a-6be5d652aa88" />
+<img width="2246" height="1238" alt="image" src="https://github.com/user-attachments/assets/df663f26-7a16-428a-bc60-d08fb474ce15" />
+
 
 
 
